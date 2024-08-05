@@ -93,8 +93,8 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 If you have any questions, suggestions, or issues, please feel free to contact me at:
 
-- Email: [your-email@example.com](hemanthrathor2@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/hemanth-rathor-508525274)
+- Email: [hemanthrathor2@gmail.com](hemanthrathor2@gmail.com)
+- LinkedIn: [www.linkedin.com/in/hemanth-rathor-508525274](www.linkedin.com/in/hemanth-rathor-508525274)
 
 ---
 
