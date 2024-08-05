@@ -18,37 +18,37 @@ Here are the projects currently included in this repository:
 1. **Project 1: Sales Effectiveness**
    - Description: This project aims to analyze and predict the effectiveness of sales strategies.
    - Tools and Libraries: Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
-   - [Link to detailed documentation](link-to-sales-effectiveness-documentation)
+   - [Link to detailed documentation](https://github.com/hr-rathor/My_Projects__/blob/main/Sales%20Efectiveness.ipynb)
 
 2. **Project 2: Language Detection**
    - Description: This project focuses on detecting the language of given text snippets.
    - Tools and Libraries: Python, NLTK, SpaCy, Scikit-Learn, Pandas, NumPy
-   - [Link to detailed documentation](link-to-language-detection-documentation)
+   - [Link to detailed documentation](https://github.com/hr-rathor/My_Projects__/blob/main/Language_Detection.ipynb)
 
 3. **Project 3: Flight Fare Prediction**
    - Description: This project predicts flight fares based on various features such as airline, source, destination, etc.
    - Tools and Libraries: Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
-   - [Link to detailed documentation](link-to-flight-fare-prediction-documentation)
+   - [Link to detailed documentation](https://github.com/hr-rathor/My_Projects__/blob/main/Flight_Fare%20(1)%20(2).ipynb)
 
 4. **Project 4: Crop Recommendation**
    - Description: This project recommends the best crop to plant based on soil and weather conditions.
    - Tools and Libraries: Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
-   - [Link to detailed documentation](link-to-crop-recommendation-documentation)
+   - [Link to detailed documentation](https://github.com/hr-rathor/My_Projects__/blob/main/Crop%20Recommendation.ipynb)
 
 5. **Project 5: NBA Shot Prediction**
    - Description: This project predicts the success of NBA shots based on player and game data.
    - Tools and Libraries: Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
-   - [Link to detailed documentation](link-to-nba-shot-prediction-documentation)
+   - [Link to detailed documentation](https://github.com/hr-rathor/My_Projects__/blob/main/NBA_FINAL%20(1)%20(2).ipynb)
 
 6. **Project 6: Concrete Strength Prediction**
    - Description: This project predicts the strength of concrete based on its components.
    - Tools and Libraries: Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
-   - [Link to detailed documentation](link-to-concrete-strength-prediction-documentation)
+   - [Link to detailed documentation](https://github.com/hr-rathor/My_Projects__/blob/main/ConcreteStrength%20(2)%20(2).ipynb)
 
 7. **Project 7: Game Winner Prediction**
    - Description: This project predicts the winner of games based on historical data and various features.
    - Tools and Libraries: Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
-   - [Link to detailed documentation](link-to-game-winner-prediction-documentation)
+   - [Link to detailed documentation](https://github.com/hr-rathor/My_Projects__/blob/main/gamewinner_prediciton.ipynb)
 
 ## Installation
 
@@ -66,12 +66,6 @@ To run these projects locally, follow these steps:
     ```bash
     python -m venv venv
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-    ```
-
-3. Install the required dependencies:
-
-    ```bash
-    pip install -r requirements.txt
     ```
 
 ## Usage
