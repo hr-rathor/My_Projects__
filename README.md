@@ -20,7 +20,7 @@ Welcome to my Machine Learning Projects repository! This repository contains sev
    - **Description**: A predictive model designed to estimate an individual's credit score based on various financial and demographic features.
    - **Tech Stack**: Python, Scikit-learn, Pandas, Matplotlib, Logistic Regression, Random Forest.
    - **Highlights**: Data preprocessing, feature selection, model evaluation.
-   - [Project Link]()
+   - [Project Link](https://github.com/hr-rathor/My_Projects__/blob/main/Credit%20Score.ipynb)
 
 4. **NBA Shot Prediction**
    - **Description**: A machine learning model that predicts the likelihood of a successful NBA shot based on player statistics and shot conditions.
@@ -39,6 +39,14 @@ Welcome to my Machine Learning Projects repository! This repository contains sev
    - **Tech Stack**: Python, NLTK, Scikit-learn, Word2Vec.
    - **Highlights**: Text preprocessing, sentiment classification, evaluation metrics.
    - [Project Link](https://github.com/hr-rathor/My_Projects__/blob/main/Sentimental.ipynb)
+  
+7. **IABAC Data Science Project**
+   -**Description**: This project involved developing and deploying a machine learning model as part of the IABAC certification course. The model was designed to 
+   predict customer churn in a telecommunications company, leveraging a dataset that included customer demographics, service usage, and contract details.
+   -**Tech Stack**: Python, Scikit-learn, Pandas, Logistic Regression, Decision Trees
+   -**Highlights**: Data preprocessing, feature engineering, model training, and evaluation. This project demonstrated strong model interpretability and provided 
+   actionable business insights for customer retention strategies.
+   -[Project Link](https://github.com/hr-rathor/My_Projects__/blob/main/IABAC%20Pro%20(2).ipynb)
 
 ## How to Use
 
